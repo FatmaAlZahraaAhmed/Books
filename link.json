@@ -1,9 +1,7 @@
 { 
 "links": [
 "puzzle":"https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py",
-"Tic tac":[ "https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py",
-	    "https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py"
-	  ]
+"Tic tac":[ ]
 
 ]
 }
