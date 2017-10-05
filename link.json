@@ -1,5 +1,5 @@
-{ 
-"links": [
-"puzzle":"https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py"
-]
+{
+	"links": [{
+		"puzzle": ["https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py"]
+	}]
 }
