@@ -1,5 +1,6 @@
 {
 	"links": [{
-		"puzzle": ["https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py"]
+		"puzzle": ["https://raw.githubusercontent.com/sbaiidrissiyoussef/Taquin-Game/master/Taquin_Game/Taquin_Model.py"],
+		"Forecast": ["https://raw.githubusercontent.com/sbaiidrissiyoussef/Bitcoin_Forecast_Using_ARIMA_model/master/Bitcoin_Forecast_Using_ARIMA_model.R"],
 	}]
 }
